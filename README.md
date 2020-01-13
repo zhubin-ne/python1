@@ -1,2 +1,0 @@
-# pythonbasis
-python basis
